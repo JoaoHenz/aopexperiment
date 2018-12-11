@@ -1,0 +1,12 @@
+Order: Change shoe 39 price to $540 | Timestamp: 20181210_234055
+Order: Change shoe 14 price to $100 | Timestamp: 20181210_234056
+Order: Change shoe 92 price to $12 | Timestamp: 20181210_234057
+Order: Change shoe 47 price to $2500 | Timestamp: 20181210_234058
+Order: Change shoe 39 price to $540 | Timestamp: 20181211_004457
+Order: Change shoe 14 price to $100 | Timestamp: 20181211_004458
+Order: Change shoe 92 price to $12 | Timestamp: 20181211_004459
+Order: Change shoe 47 price to $2500 | Timestamp: 20181211_004500
+Order: Change shoe 39 price to $540 | Timestamp: 20181211_004525
+Order: Change shoe 14 price to $100 | Timestamp: 20181211_004526
+Order: Change shoe 92 price to $12 | Timestamp: 20181211_004527
+Order: Change shoe 47 price to $2500 | Timestamp: 20181211_004528
